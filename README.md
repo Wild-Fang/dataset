@@ -23,4 +23,6 @@ We should only provide images with variety. For example, images that show animal
 > Note
 > Images should look "real", they have to look like as if they were taken by an iPhone or another camera. We don't want something that was shot to close or an image that could contain ambiguous objects.
 
+### Note about image optimization
 
+We use [ImgBot](https://imgbot.net) to optimize all our images so the repository isn't too heavy. The current GitHub limit is 1 Gb, which is about 1250 images, so it's clear we really need to optimize every images 😊.
